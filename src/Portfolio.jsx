@@ -254,10 +254,10 @@ const Portfolio = () => {
                 </span>
               </h2>
               <p className="text-lg text-gray-300 leading-relaxed">
-                I'm a passionate graphic designer with over 5 years of
-                experience in creating compelling visual narratives. My
-                expertise spans across branding, web design, print media, and
-                digital marketing materials.
+                My self Vaishnavi Patil.I'm a passionate graphic designer with
+                over 1 years ofexperience in creating compelling visual
+                narratives. My expertise spans across branding, Graphic design,
+                print media, and digital marketing materials.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
                 I believe in the power of design to communicate ideas, evoke
@@ -270,7 +270,7 @@ const Portfolio = () => {
                   <div className="text-gray-300">Projects Completed</div>
                 </div>
                 <div className="text-center p-4 bg-gray-800 rounded-lg">
-                  <div className="text-3xl font-bold text-pink-400">25+</div>
+                  <div className="text-3xl font-bold text-pink-400">15+</div>
                   <div className="text-gray-300">Happy Clients</div>
                 </div>
               </div>
